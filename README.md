@@ -1,6 +1,6 @@
 # Resume-Builder
 Project Description:
-he goal of this project is to develop a web-based tool that enables users to easily create professional resumes. The Online Resume Builder will provide a user-friendly interface where individuals can input their personal and professional information, and the system will generate a well-formatted resume document based on the user's input.
+The goal of this project is to develop a web-based tool that enables users to easily create professional resumes. The Online Resume Builder will provide a user-friendly interface where individuals can input their personal and professional information, and the system will generate a well-formatted resume document based on the user's input.
 
 Implementation:
 To accomplish this project, the following technologies and components will be used:
